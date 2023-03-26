@@ -1,2 +1,2 @@
 # hidden-Monero-miner
-HMM
+HMM Wait
