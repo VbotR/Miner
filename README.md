@@ -1,0 +1,2 @@
+# hidden-Monero-miner
+HMM
