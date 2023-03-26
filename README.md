@@ -3,7 +3,7 @@ HMM, Wait >:
 
 xmrig.exe - https://github.com/xmrig/xmrig/releases/download/v6.19.1/xmrig-6.19.1-gcc-win64.zip
 
-Give me stars or help, I'm doing in Solanova.
+Give me stars or help, I'm doing in solanova.
 I'm kidding...
 
 
